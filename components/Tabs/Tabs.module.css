@@ -8,3 +8,21 @@
 	height: 100%;
 	width: 100%;
 }
+
+.tabHead {
+	border-bottom: 1px solid black;
+	background: black;
+}
+
+.tabContainer {
+	/* width: 30em;
+	height: 30em; */
+}
+
+.tabBody {
+	height: 100%;
+}
+
+.tab {
+	color: white;
+}
